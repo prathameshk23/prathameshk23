@@ -6,6 +6,10 @@
 
 - 🌱 I’m currently learning **Angular**
 
+- 👯 I’m looking to collaborate on **any open source project**
+
+- ⚡ Fun fact **It’s all 0’s and 1’s**
+
 - 📫 How to reach me **prathameshkulkarni952@gmail.com**
 
 
