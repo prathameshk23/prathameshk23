@@ -18,7 +18,8 @@
 <br>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshk23&show_icons=true&theme=tokyonight&locale=en" alt="prathameshk23" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathameshk23&show_icons=true&theme=tokyonight)
+
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshk23&theme=dark" alt="prathameshk23" /></p>
