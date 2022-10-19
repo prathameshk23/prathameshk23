@@ -20,3 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshk23&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=prathameshk23&theme=dracula&bg_color=282a36&hide_border=true"/>
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=prathameshk23&theme=dracula&bg_color=282a36&hide_border=true"/>
+
