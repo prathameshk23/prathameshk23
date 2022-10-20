@@ -2,7 +2,7 @@
 
 <h3 align="center">A developer from India</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **[fullstack-music-app](https://github.com/prathameshk23/fullstack-music-app)**
 
 - 🌱 I’m currently learning **Angular**
 
