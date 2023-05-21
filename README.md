@@ -1,6 +1,6 @@
 ![logo](https://github.com/prathameshk23/prathameshk23/blob/main/header.gif)
 
-<h3 align="center">A developer from India</h3>
+<h3 align="center">Developer from India</h3>
 
 - 🔭 I’m currently working on **[fullstack-music-app](https://github.com/prathameshk23/fullstack-music-app)**
 
