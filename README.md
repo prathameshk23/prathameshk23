@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on **[fullstack-music-app](https://github.com/prathameshk23/fullstack-music-app)** -->
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on **any open source project**
 
